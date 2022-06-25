@@ -1,0 +1,42 @@
+div.calculator {
+    border: 2px solid black;
+    width: 210px;
+    height: 260px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    background-color: rgb(170, 170, 170);
+    border-radius: 20px;
+}
+
+button {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    margin: 1px;
+
+}
+
+div.display {
+    background-color: rgb(229, 226, 226);
+    margin: 12px;
+    width: 180px;
+    height: 50px;
+    border: 1px solid black;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+div.buttons {
+    margin: 14px;
+}
+
+
+
+body {
+    background-image: url("https://media.istockphoto.com/vectors/abstract-futuristic-background-with-hexagons-dark-scifi-hitech-with-vector-id1315800229?k=20&m=1315800229&s=612x612&w=0&h=l_AO5piHvWhegTZzbZZwXZJ9fS5EyydWA2GnwbsF5IU=");
+}
+
